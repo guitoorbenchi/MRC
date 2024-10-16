@@ -1,5 +1,5 @@
 # Hello, I'm Mark Cummings
-<a href="https://www.linkedin.com/in/mark-cummings-jr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mark-cummings-jr" onClick="window.open('[http://www.yahoo.com](https://www.linkedin.com/in/mark-cummings-jr)', '_blank')"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an independent learner with an interest in all things technology, root cause analysis, and continuous improvement.
 
