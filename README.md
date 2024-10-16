@@ -1,7 +1,7 @@
 # Hello, I'm Mark Cummings
 <a href="https://www.linkedin.com/in/mark-cummings-jr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an independent learner with an interest in all things technology, root cause analysis, and continuous improvement.
+I am an independent learner with an interest in everything relating to technology, root cause analysis, and continuous improvement.
 
 ## Objective
 
